@@ -1,1 +1,2 @@
-# PyTorch-implementation-of-Understanding-Deep-Image-Representations-by-Inverting-Them-
+# PyTorch implementation of paper "Understanding Deep Image Representations by Inverting Them"
+
